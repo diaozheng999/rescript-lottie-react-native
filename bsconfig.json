@@ -1,0 +1,20 @@
+{
+  "name": "@nasi/lottie-react-native",
+  "namespace": "lottie",
+  "sources": {
+    "dir" : "src",
+    "subdirs" : true
+  },
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": false,
+    "suffix": ".bs.js"
+  },
+  "bs-dependencies": ["@rescript/react", "@nasi/react-native", "rescript-react-native"],
+  "warnings": {
+    "number": "-44",
+    "error" : "+101"
+  },
+  "reason": { "react-jsx": 3 },
+  "ppx-flags": []
+}
