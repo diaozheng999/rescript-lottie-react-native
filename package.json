@@ -4,7 +4,7 @@
     "name": "Diao Zheng"
   },
   "description": "ReScript bindings for Lottie",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "repository": "github:diaozheng999/rescript-lottie-react-native",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@rescript/react": "^0.10.2",
-    "@nasi/react-native": "^0.64.3"
+    "@nasi/react-native": "^0.64.7"
   },
   "devDependencies": {
     "bs-platform": "^9.0.2"
